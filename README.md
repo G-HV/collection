@@ -28,3 +28,4 @@ Quantitative Finance
   - Option Greek calculator by price re-simulation
   - Financial data scraping to emulate a screener
   - Automated email feed emulating an automated screener
+  - VWAP Trading
