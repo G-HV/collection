@@ -2,6 +2,9 @@ Collection
 
 Hello! The repo is a code-base projects done out of interest for several topics; some to come, some are WIP, some to be started. 
 
+Random conveniences
+  - YTMusic downloader
+
 Mathematics
   - N-colourability of trees with N-bifurcations per iteration
   - Conway's Game of Life, and a PVP version
